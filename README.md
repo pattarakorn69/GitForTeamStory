@@ -9,8 +9,8 @@ This is the starting draft of your team's story. Your mission: revise and improv
 1. Once upon a time, a **scientist** was 
    experimenting with instantaneous teleportation,    
    but the experiment went wrong when a **cat** accidentally wandered in and disrupted the system.
-   ![scientist](img/scientist.png.png)
-   ![cat](img/cat.png.png)
+   ![scientist](img/scientist.png)
+   ![cat](img/cat.png)
 
 2. The resulting explosion of sparks ripped a hole in reality itself, and when the smoke cleared, the lab was gone — replaced by the stone walls of a castle that definitely hadn't been there five seconds ago. 
    ![castle](img/castle.png)
